@@ -10,3 +10,6 @@
 [submodule "adivinar"]
 	path = adivinar
 	url = https://github.com/JISV7/adivinar.git
+[submodule "task-manager-rust"]
+	path = task-manager-rust
+	url = https://github.com/JISV7/task-manager-rust.git
