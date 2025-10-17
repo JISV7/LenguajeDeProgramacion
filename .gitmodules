@@ -1,3 +1,12 @@
 [submodule "TaskManager"]
 	path = TaskManager
 	url = https://github.com/JISV7/TaskManager
+[submodule "conversor"]
+	path = conversor
+	url = https://github.com/JISV7/conversor.git
+[submodule "fibonacci"]
+	path = fibonacci
+	url = https://github.com/JISV7/fibonacci.git
+[submodule "adivinar"]
+	path = adivinar
+	url = https://github.com/JISV7/adivinar.git
